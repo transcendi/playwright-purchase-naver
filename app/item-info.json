@@ -1,0 +1,26 @@
+{
+  "itemURL" : "https://smartstore.naver.com/dobob/products/422132971",
+  "itemName" : "이케아 데톨프 (블롤리덴) 장식장 LED 조명 키트",
+  "options" : [
+    {
+      "type": "dropdown",
+      "name": "장식장 종류",
+      "value": "데톨프 (35cm)"
+    },
+    {
+      "type": "dropdown",
+      "name": "LED바 갯수 선택",
+      "value": "8EA (장식장 2대)"
+    },
+    {
+      "type": "dropdown",
+      "name": "색상",
+      "value": "웜화이트 (+30000원)"
+    }
+  ],
+  "additionalItems" : [{
+    "type": "dropdown",
+    "name": "LED 방열판 (기본 왼쪽)",
+    "value": "2set (8개) (+8000원)"
+  }]
+}

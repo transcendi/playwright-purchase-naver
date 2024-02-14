@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "image-in-image": "^1.0.3",
+    "playwright": "^1.41.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.16"
+  },
+  "scripts": {}
+}
